@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on komacchi.log</title>
+    <link>https://komacchi.github.io/post/</link>
+    <description>Recent content in Posts on komacchi.log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 01 Feb 2018 23:34:28 +0900</lastBuildDate>
+    
+	<atom:link href="https://komacchi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primaris Hellblasters Vol.1</title>
+      <link>https://komacchi.github.io/2018/02/01/hellblaster1/</link>
+      <pubDate>Thu, 01 Feb 2018 23:34:28 +0900</pubDate>
+      
+      <guid>https://komacchi.github.io/2018/02/01/hellblaster1/</guid>
+      <description>#1 ヘルブラスター氏 1体目 さてここでWarhammer40000（Warhammer 40k）のKnow No Fearに含まれる、プライマリス・ヘル</description>
+    </item>
+    
+  </channel>
+</rss>
