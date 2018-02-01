@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/komacchi/dev-warhammer.git
+	branch = master

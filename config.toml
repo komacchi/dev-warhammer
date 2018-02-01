@@ -1,0 +1,16 @@
+baseURL = "https://komacchi.github.io/"
+languageCode = "ja-jp"
+title = "komacchi.log"
+publishDir = "public"
+theme= "hugo-bootstrap"
+hasCJKLanguage = true
+paginate = 10
+paginatePath = "page"
+
+[permalinks]
+	post = "/:year/:month/:day/:filename/"
+	code = "/:filename/"
+	
+[author]
+	name = "komacchi"
+	email = ""
