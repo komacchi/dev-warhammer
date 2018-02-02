@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:komacchi/komacchi.github.io.git
+	url = https://github.com/komacchi/komacchi.github.io.git
 	branch = master
